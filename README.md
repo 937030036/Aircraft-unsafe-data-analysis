@@ -1,0 +1,1 @@
+#ASN航空安全数据挖掘项目：近年来，随着互联网应用的普及，在线航空安全信息数据库（如，美国国家运输安全委员会航空意外数据库，如，NTSB aviation accident database）、飞机事故档案局事故档案库(Bureau of Aircraft Accidents Archives)、航空安全网（Aviation Safety  Network,  ASN）等，已逐渐成为航空不安全事件信息发布的重要渠道。本次比赛以ASN的公开数据为基础，对不安全事件的事件类型信息进行挖掘，为航空安全管理提供数据分析支持。
